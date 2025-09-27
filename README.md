@@ -1,0 +1,1 @@
+The Excel file contains all of the data used for the code. The python file contains all the libraries, applications, including a player consistency chart based off PCA clustering, use cases, a confusion matrix for player-stat matching, that features Random Forest, XGBoost, and Logistic Regression.
